@@ -1,3 +1,13 @@
+# Best Alfred-Pinboard Workflow
+
+_That I've found so far..._
+
+Originally found on [Github](https://github.com/spamwax/alfred-pinboard), I only recently noticed the author had updated their work over on [Bitbucket](https://bitbucket.org/listboss/go-pinboard) - So I cloned it over here to Github and updated the README to include the Vivaldi browser.
+
+-[@lodestone](@lodestone)
+
+----
+
 # Alfred Workflow for Pinboard
 
 There are probably similar [Alfred](http://www.alfredapp.com/) Workflows out there but my main motivation for writing this was to learn the Go language.
