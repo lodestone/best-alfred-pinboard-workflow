@@ -20,6 +20,7 @@ For posting you just need to enter the Workflow's keyword ( <kbd>p</kbd> ) into 
 - Chromium
 - Firefox
 - Safari
+- Vivaldi
 
 For searching, use ( <kbd>ps</kbd> ) and then type the search keywords.
 
